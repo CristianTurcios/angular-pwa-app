@@ -22,8 +22,7 @@
               "src/favicon.ico",
               "src/assets",
               "src/manifest.json",
-              "src/.well-known/assetlinks.json"
-
+              "src/.well-known"
             ],
             "styles": [
               "src/styles.css"
